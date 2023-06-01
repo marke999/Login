@@ -1,0 +1,1 @@
+Log_Number	Username	Logout_Date	Logout_Time
