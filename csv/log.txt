@@ -1,0 +1,4 @@
+Log_Number\tUsername\tLogin_Date\tLogin_Time
+000000058\tM.ARNOCO\t2023-06-20\t09:53:48
+Log_Number\tUsername\tLogin_Date\tLogin_Time
+000000060\tM.ARNOCO\t2023-06-20\t09:54:38
